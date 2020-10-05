@@ -1,11 +1,14 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "BBZ24S4QM7.me.healthtrac.digital360health.app",
-        "paths": [
-          "/pair/*"
+        "appIDs": [
+          "BBZ24S4QM7.me.healthtrac.digital360health.app"
+        ],
+        "components": [
+          {
+            "/": "/pair/*"
+          }
         ]
       }
     ]
